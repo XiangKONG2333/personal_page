@@ -30,7 +30,7 @@ Research Experience
     * Develop and calibrate a damage model to fit with the experimental data set via a non-linear finite element software [Z-set](http://www.zset-software.com/) 
 
 * 02.2018 - 08.2018: Research internship, Laboratoire de Mécanique et Technologie ([LMT](http://lmt.ens-paris-saclay.fr/)), [ENS Paris-Saclay](http://ens-paris-saclay.fr/), France
-  * Report title (equivalent master thesis): Experiment characterization of the 3D-compressive behavior of a polymeric foam
+  * Report title (equivalent master thesis): _Experiment characterization of the 3D-compressive behavior of a polymeric foam_
   * Supervisors: Prof. [Nicolas Schimid](https://w3.lmt.ens-cachan.fr/site/php_perso/perso_page_lmt.php?nom=SCHMITT&secteur=1-CE)
      - operate uniaxial and triaxial compressive experiments on foam by ASTREE machine
      - simulate multi-axial device loading process and optimize experimental process
@@ -40,25 +40,23 @@ Research Experience
     * Apply explicit and implicit schemes to simulate thermo-mechanical coupling heat transfer
 
 * 03.2017 - 07.2017: Research internship, Procédés et Ingénierie en Mécanique et Matériaux ([PIMM](https://pimm.artsetmetiers.fr/)), Paris France
-  * Subject: Life time of polyamide composite applied in electronmechanical field
+  * Subject: _Life time of polyamide composite applied in electronmechanical field_
     * predict composite material’s lifetime and failure surface based on different ageing time and temperature
     * characterize composite materials by SEM, DSC, Infrared tests 
 
-* 09.2015 – 07.2016: Graduation thesis Project, Tongji university, Shanghai China 
-  * Subject: Study on synthesis of bio-based and flame retardancy-containing resin with a Chinese patent(CN201610559919.3) 
+* 09.2015 – 07.2016: Graduation thesis Project with a Chinese patent(CN201610559919.3), Tongji university, Shanghai China 
+  * Subject: _Study on synthesis of bio-based and flame retardancy-containing resin_  
     -	synthesize a thermosetting polylactic acid resin with good heat stability 
     -	characterize the synthesis by DSC, FTIR and conduct LOI flame tests 
 
   
-Skills
+Professional skill
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Finite element analysis 
+* Digital image correlation
+* Programming 
+  * Python
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
