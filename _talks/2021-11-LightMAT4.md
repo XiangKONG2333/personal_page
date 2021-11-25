@@ -7,3 +7,4 @@ venue: "4th International Conference on Light Materials – Science and Technolo
 date: 2021-11-04
 location: "Virtual conference"
 ---
+[More information here](https://dgm.de/lightmat/)
