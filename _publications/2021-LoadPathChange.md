@@ -1,5 +1,5 @@
 ---
-title: "3D in situ study of damage during a 'shear to tension' load path change"
+title: "3D in situ study of damage during a shear to tension load path change"
 collection: publications
 permalink: /publication/2021-LoadPathChange
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
