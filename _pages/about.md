@@ -7,5 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-##Hello!
-This is my person page.
+Hello, welcome to my personal page!
+I am Xiang KONG, a PhD candidate from *Centres des Matériaux*. I am working on the damage and fracture study of an aluminium alloy. 
