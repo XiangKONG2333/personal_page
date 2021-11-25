@@ -8,4 +8,4 @@ date: 2021-01-11
 location: "Virtual conference"
 ---
 
-[More information here](http://example2.com)
+[More information here](https://virtual.wccm-eccomas2020.org/)
