@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 Hello, welcome to my personal page!
-I am Xiang KONG, a PhD candidate from *Centres des Matériaux*. I am working on the damage and fracture study of an aluminium alloy. 
+I am Xiang KONG, a PhD candidate from [Centres des Matériaux](https://www.mat.minesparis.psl.eu/Accueil/) Mines ParisTech. Currently, I am working on the damage and fracture study of an aluminium alloy. 
